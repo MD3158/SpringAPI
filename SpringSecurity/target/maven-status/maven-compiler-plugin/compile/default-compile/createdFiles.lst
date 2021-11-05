@@ -1,0 +1,13 @@
+com\example\security\repository\UserRepository.class
+com\example\security\repository\RoleRepository.class
+com\example\student\repository\StudentRepository.class
+com\example\security\config\WebSecurityConfig.class
+com\example\security\entity\User.class
+com\example\security\SpringSecurityApplication.class
+com\example\student\service\StudentService.class
+com\example\student\service\StudentServiceImpl.class
+com\example\security\entity\Role.class
+com\example\security\service\UserDetailsServiceImpl.class
+com\example\student\controller\StudentController.class
+com\example\student\entity\Student.class
+com\example\security\controller\MainController.class
